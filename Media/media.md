@@ -89,7 +89,7 @@ In summary, this dataset presents a rich variety of content in different languag
 ## Visualizations and Descriptions
 
 ### overall Distribution
-![overall_distribution](outputs\graphs\overall_distribution.png)
+![overall_distribution](outputs/graphs/overall_distribution.png)
 
 The graph above shows the distribution of the 'overall' column. It visualizes the frequency distribution of the values. Look for the central tendency, spread, and any possible skewness in the distribution. From the descriptive statistics, the mean of this column is 3.05, and the standard deviation is 0.76.
 
