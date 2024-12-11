@@ -54,7 +54,7 @@ Negative affect                      16
 
 ## Description of Analysis
 
-Sure! Here’s a simplified explanation of the dataset analysis:
+Sure! Hereâ€™s a simplified explanation of the dataset analysis:
 
 ### Dataset Overview:
 - **Total Entries**: The dataset has 2,363 rows. Each row represents a different observation (like a country's data for a specific year).
@@ -64,12 +64,12 @@ Sure! Here’s a simplified explanation of the dataset analysis:
 1. **Country Name**: The names of the countries in the dataset.
 2. **Year**: The year when the data was collected.
 3. **Life Ladder**: A score that reflects how happy people in a country feel.
-4. **Log GDP per Capita**: The natural logarithm of the gross domestic product (GDP) per person, which gives an idea of the country’s economic performance.
+4. **Log GDP per Capita**: The natural logarithm of the gross domestic product (GDP) per person, which gives an idea of the countryâ€™s economic performance.
 5. **Social Support**: A measure of how much support individuals feel they have from family and friends.
 6. **Healthy Life Expectancy at Birth**: The average number of years a newborn can expect to live in good health.
 7. **Freedom to Make Life Choices**: A score indicating how much freedom people have in making life choices.
 8. **Generosity**: A measure of people's willingness to give (like donations).
-9. **Perceptions of Corruption**: How corrupt people believe their country’s institutions are.
+9. **Perceptions of Corruption**: How corrupt people believe their countryâ€™s institutions are.
 10. **Positive Affect**: A measure of experiencing positive emotions frequently.
 11. **Negative Affect**: A measure of experiencing negative emotions frequently.
 
@@ -86,9 +86,9 @@ The analysis provided some statistics for key columns. Here are some highlights:
 This part examines how related the different aspects of the data are. For example:
 
 - **Happiness and GDP**: There is a strong positive correlation (0.78) between happiness (Life Ladder) and Log GDP per Capita, suggesting that countries with higher GDP tend to have happier citizens.
-- **Social Support and Happiness**: There’s also a strong correlation (0.72) between social support and happiness; more support typically leads to higher happiness.
+- **Social Support and Happiness**: Thereâ€™s also a strong correlation (0.72) between social support and happiness; more support typically leads to higher happiness.
 - **Freedom and Happiness**: Freedom to make life choices is reasonably related to happiness (0.54); more freedom often equates to greater happiness.
-- **Negative Affect**: There’s a negative correlation (-0.35) between happiness and negative affect, meaning as people feel happier, they feel less negative.
+- **Negative Affect**: Thereâ€™s a negative correlation (-0.35) between happiness and negative affect, meaning as people feel happier, they feel less negative.
 
 ### Missing Values:
 Certain columns have some missing data. For example, there are:
@@ -102,52 +102,52 @@ Overall, this analysis gives us insight into how happiness, economic performance
 ## Visualizations and Descriptions
 
 ### year Distribution
-![year_distribution](outputs\graphs\year_distribution.png)
+![year_distribution](outputs/graphs/year_distribution.png)
 
 The graph above shows the distribution of the 'year' column. It visualizes the frequency distribution of the values. Look for the central tendency, spread, and any possible skewness in the distribution. From the descriptive statistics, the mean of this column is 2014.76, and the standard deviation is 5.06.
 
 ### Life Ladder Distribution
-![Life Ladder_distribution](outputs\graphs\Life Ladder_distribution.png)
+![Life Ladder_distribution](outputs/graphs/Life Ladder_distribution.png)
 
 The graph above shows the distribution of the 'Life Ladder' column. It visualizes the frequency distribution of the values. Look for the central tendency, spread, and any possible skewness in the distribution. From the descriptive statistics, the mean of this column is 5.48, and the standard deviation is 1.13.
 
 ### Log GDP per capita Distribution
-![Log GDP per capita_distribution](outputs\graphs\Log GDP per capita_distribution.png)
+![Log GDP per capita_distribution](outputs/graphs/Log GDP per capita_distribution.png)
 
 The graph above shows the distribution of the 'Log GDP per capita' column. It visualizes the frequency distribution of the values. Look for the central tendency, spread, and any possible skewness in the distribution. From the descriptive statistics, the mean of this column is 9.40, and the standard deviation is 1.15.
 
 ### Social support Distribution
-![Social support_distribution](outputs\graphs\Social support_distribution.png)
+![Social support_distribution](outputs/graphs/Social support_distribution.png)
 
 The graph above shows the distribution of the 'Social support' column. It visualizes the frequency distribution of the values. Look for the central tendency, spread, and any possible skewness in the distribution. From the descriptive statistics, the mean of this column is 0.81, and the standard deviation is 0.12.
 
 ### Healthy life expectancy at birth Distribution
-![Healthy life expectancy at birth_distribution](outputs\graphs\Healthy life expectancy at birth_distribution.png)
+![Healthy life expectancy at birth_distribution](outputs/graphs/Healthy life expectancy at birth_distribution.png)
 
 The graph above shows the distribution of the 'Healthy life expectancy at birth' column. It visualizes the frequency distribution of the values. Look for the central tendency, spread, and any possible skewness in the distribution. From the descriptive statistics, the mean of this column is 63.40, and the standard deviation is 6.84.
 
 ### Freedom to make life choices Distribution
-![Freedom to make life choices_distribution](outputs\graphs\Freedom to make life choices_distribution.png)
+![Freedom to make life choices_distribution](outputs/graphs/Freedom to make life choices_distribution.png)
 
 The graph above shows the distribution of the 'Freedom to make life choices' column. It visualizes the frequency distribution of the values. Look for the central tendency, spread, and any possible skewness in the distribution. From the descriptive statistics, the mean of this column is 0.75, and the standard deviation is 0.14.
 
 ### Generosity Distribution
-![Generosity_distribution](outputs\graphs\Generosity_distribution.png)
+![Generosity_distribution](outputs/graphs/Generosity_distribution.png)
 
 The graph above shows the distribution of the 'Generosity' column. It visualizes the frequency distribution of the values. Look for the central tendency, spread, and any possible skewness in the distribution. From the descriptive statistics, the mean of this column is 0.00, and the standard deviation is 0.16.
 
 ### Perceptions of corruption Distribution
-![Perceptions of corruption_distribution](outputs\graphs\Perceptions of corruption_distribution.png)
+![Perceptions of corruption_distribution](outputs/graphs/Perceptions of corruption_distribution.png)
 
 The graph above shows the distribution of the 'Perceptions of corruption' column. It visualizes the frequency distribution of the values. Look for the central tendency, spread, and any possible skewness in the distribution. From the descriptive statistics, the mean of this column is 0.74, and the standard deviation is 0.18.
 
 ### Positive affect Distribution
-![Positive affect_distribution](outputs\graphs\Positive affect_distribution.png)
+![Positive affect_distribution](outputs/graphs/Positive affect_distribution.png)
 
 The graph above shows the distribution of the 'Positive affect' column. It visualizes the frequency distribution of the values. Look for the central tendency, spread, and any possible skewness in the distribution. From the descriptive statistics, the mean of this column is 0.65, and the standard deviation is 0.11.
 
 ### Negative affect Distribution
-![Negative affect_distribution](outputs\graphs\Negative affect_distribution.png)
+![Negative affect_distribution](outputs/graphs/Negative affect_distribution.png)
 
 The graph above shows the distribution of the 'Negative affect' column. It visualizes the frequency distribution of the values. Look for the central tendency, spread, and any possible skewness in the distribution. From the descriptive statistics, the mean of this column is 0.27, and the standard deviation is 0.09.
 
