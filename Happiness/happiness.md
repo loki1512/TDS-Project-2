@@ -112,22 +112,22 @@ The graph above shows the distribution of the 'year' column. It visualizes the f
 The graph above shows the distribution of the 'Life Ladder' column. It visualizes the frequency distribution of the values. Look for the central tendency, spread, and any possible skewness in the distribution. From the descriptive statistics, the mean of this column is 5.48, and the standard deviation is 1.13.
 
 ### Log GDP per capita Distribution
-![Log GDP per capita_distribution](outputs/graphs/Log GDP per capita_distribution.png)
+![Log GDP per capita_distribution]("outputs/graphs/Log_GDP_per_capita_distribution.png")
 
 The graph above shows the distribution of the 'Log GDP per capita' column. It visualizes the frequency distribution of the values. Look for the central tendency, spread, and any possible skewness in the distribution. From the descriptive statistics, the mean of this column is 9.40, and the standard deviation is 1.15.
 
 ### Social support Distribution
-![Social support_distribution](outputs/graphs/Social support_distribution.png)
+![Social support_distribution](outputs/graphs/Social_support_distribution.png)
 
 The graph above shows the distribution of the 'Social support' column. It visualizes the frequency distribution of the values. Look for the central tendency, spread, and any possible skewness in the distribution. From the descriptive statistics, the mean of this column is 0.81, and the standard deviation is 0.12.
 
 ### Healthy life expectancy at birth Distribution
-![Healthy life expectancy at birth_distribution](outputs/graphs/Healthy life expectancy at birth_distribution.png)
+![Healthy life expectancy at birth_distribution](outputs/graphs/Healthy_life_expectancy at birth_distribution.png)
 
 The graph above shows the distribution of the 'Healthy life expectancy at birth' column. It visualizes the frequency distribution of the values. Look for the central tendency, spread, and any possible skewness in the distribution. From the descriptive statistics, the mean of this column is 63.40, and the standard deviation is 6.84.
 
 ### Freedom to make life choices Distribution
-![Freedom to make life choices_distribution](outputs/graphs/Freedom to make life choices_distribution.png)
+![Freedom to make life choices_distribution](outputs/graphs/Freedom_to_make_life choices_distribution.png)
 
 The graph above shows the distribution of the 'Freedom to make life choices' column. It visualizes the frequency distribution of the values. Look for the central tendency, spread, and any possible skewness in the distribution. From the descriptive statistics, the mean of this column is 0.75, and the standard deviation is 0.14.
 
@@ -137,17 +137,17 @@ The graph above shows the distribution of the 'Freedom to make life choices' col
 The graph above shows the distribution of the 'Generosity' column. It visualizes the frequency distribution of the values. Look for the central tendency, spread, and any possible skewness in the distribution. From the descriptive statistics, the mean of this column is 0.00, and the standard deviation is 0.16.
 
 ### Perceptions of corruption Distribution
-![Perceptions of corruption_distribution](outputs/graphs/Perceptions of corruption_distribution.png)
+![Perceptions of corruption_distribution](outputs/graphs/Perceptions_of_corruption_distribution.png)
 
 The graph above shows the distribution of the 'Perceptions of corruption' column. It visualizes the frequency distribution of the values. Look for the central tendency, spread, and any possible skewness in the distribution. From the descriptive statistics, the mean of this column is 0.74, and the standard deviation is 0.18.
 
 ### Positive affect Distribution
-![Positive affect_distribution](outputs/graphs/Positive affect_distribution.png)
+![Positive affect_distribution](outputs/graphs/Positive_affect_distribution.png)
 
 The graph above shows the distribution of the 'Positive affect' column. It visualizes the frequency distribution of the values. Look for the central tendency, spread, and any possible skewness in the distribution. From the descriptive statistics, the mean of this column is 0.65, and the standard deviation is 0.11.
 
 ### Negative affect Distribution
-![Negative affect_distribution](outputs/graphs/Negative affect_distribution.png)
+![Negative affect_distribution](outputs/graphs/Negative_affect_distribution.png)
 
 The graph above shows the distribution of the 'Negative affect' column. It visualizes the frequency distribution of the values. Look for the central tendency, spread, and any possible skewness in the distribution. From the descriptive statistics, the mean of this column is 0.27, and the standard deviation is 0.09.
 
