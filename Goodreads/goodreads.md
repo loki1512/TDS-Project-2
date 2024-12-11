@@ -57,7 +57,7 @@ language_code                1084
 
 ## Description of Analysis
 
-Sure! Let’s break down the analysis of the dataset into simpler terms.
+Sure! LetÂ’s break down the analysis of the dataset into simpler terms.
 
 ### Overview of the Dataset
 - The dataset contains **10,000 rows** and **23 columns**. Each row represents a different book, while the columns provide various details about those books.
@@ -71,7 +71,7 @@ Sure! Let’s break down the analysis of the dataset into simpler terms.
   - **title**: The title of the book.
   - **average_rating**: The average rating given to the book by readers on a scale (usually 1 to 5).
   - **ratings_count**: The total number of ratings the book has received.
-  - **work_ratings_count**: Total ratings for the book’s specific edition or work.
+  - **work_ratings_count**: Total ratings for the bookÂ’s specific edition or work.
   - **ratings_1 to ratings_5**: The number of readers who rated the book with 1, 2, 3, 4, and 5 stars.
 
 #### Summary Statistics:
@@ -87,7 +87,7 @@ Sure! Let’s break down the analysis of the dataset into simpler terms.
 - The correlation analysis shows how different features relate to each other.
   - A lower **books_count** (how many books an author has) is related to higher **ratings_count** and **work_ratings_count**. This might suggest that authors with fewer books but quality content tend to get more attention.
   - **Ratings_count** and **work_ratings_count** are highly correlated (0.995), meaning books that get many ratings likely have a lot of ratings on their specific editions too.
-  - Conversely, average ratings don’t show strong correlations with **ratings_count**, implying that more ratings do not necessarily mean a higher average score.
+  - Conversely, average ratings donÂ’t show strong correlations with **ratings_count**, implying that more ratings do not necessarily mean a higher average score.
 
 ### Missing Values
 - The dataset has some missing values:
@@ -97,7 +97,7 @@ Sure! Let’s break down the analysis of the dataset into simpler terms.
   - **original_title**: Missing for **585** books.
   - **language_code**: Missing for **1,084** books.
 
-This suggests that there are several books for which complete information isn’t available. 
+This suggests that there are several books for which complete information isnÂ’t available. 
 
 ### Conclusion
 In simple terms, this dataset is a rich compilation of book-related information that includes details about the books, authors, publication years, ratings, and their relationships. The findings indicate that most books are well-rated, especially those with unique authorship and good number of ratings. However, there are also missing pieces in some of the data that might need addressing for further analysis.
@@ -105,77 +105,77 @@ In simple terms, this dataset is a rich compilation of book-related information 
 ## Visualizations and Descriptions
 
 ### book_id Distribution
-![book_id_distribution](outputs\graphs\book_id_distribution.png)
+![book_id_distribution](outputs/graphs/book_id_distribution.png)
 
 The graph above shows the distribution of the 'book_id' column. It visualizes the frequency distribution of the values. Look for the central tendency, spread, and any possible skewness in the distribution. From the descriptive statistics, the mean of this column is 5000.50, and the standard deviation is 2886.90.
 
 ### goodreads_book_id Distribution
-![goodreads_book_id_distribution](outputs\graphs\goodreads_book_id_distribution.png)
+![goodreads_book_id_distribution](outputs/graphs/goodreads_book_id_distribution.png)
 
 The graph above shows the distribution of the 'goodreads_book_id' column. It visualizes the frequency distribution of the values. Look for the central tendency, spread, and any possible skewness in the distribution. From the descriptive statistics, the mean of this column is 5264696.51, and the standard deviation is 7575461.86.
 
 ### best_book_id Distribution
-![best_book_id_distribution](outputs\graphs\best_book_id_distribution.png)
+![best_book_id_distribution](outputs/graphs/best_book_id_distribution.png)
 
 The graph above shows the distribution of the 'best_book_id' column. It visualizes the frequency distribution of the values. Look for the central tendency, spread, and any possible skewness in the distribution. From the descriptive statistics, the mean of this column is 5471213.58, and the standard deviation is 7827329.89.
 
 ### work_id Distribution
-![work_id_distribution](outputs\graphs\work_id_distribution.png)
+![work_id_distribution](outputs/graphs/work_id_distribution.png)
 
 The graph above shows the distribution of the 'work_id' column. It visualizes the frequency distribution of the values. Look for the central tendency, spread, and any possible skewness in the distribution. From the descriptive statistics, the mean of this column is 8646183.42, and the standard deviation is 11751060.82.
 
 ### books_count Distribution
-![books_count_distribution](outputs\graphs\books_count_distribution.png)
+![books_count_distribution](outputs/graphs/books_count_distribution.png)
 
 The graph above shows the distribution of the 'books_count' column. It visualizes the frequency distribution of the values. Look for the central tendency, spread, and any possible skewness in the distribution. From the descriptive statistics, the mean of this column is 75.71, and the standard deviation is 170.47.
 
 ### isbn13 Distribution
-![isbn13_distribution](outputs\graphs\isbn13_distribution.png)
+![isbn13_distribution](outputs/graphs/isbn13_distribution.png)
 
 The graph above shows the distribution of the 'isbn13' column. It visualizes the frequency distribution of the values. Look for the central tendency, spread, and any possible skewness in the distribution. From the descriptive statistics, the mean of this column is 9755044298883.46, and the standard deviation is 442861920665.57.
 
 ### original_publication_year Distribution
-![original_publication_year_distribution](outputs\graphs\original_publication_year_distribution.png)
+![original_publication_year_distribution](outputs/graphs/original_publication_year_distribution.png)
 
 The graph above shows the distribution of the 'original_publication_year' column. It visualizes the frequency distribution of the values. Look for the central tendency, spread, and any possible skewness in the distribution. From the descriptive statistics, the mean of this column is 1981.99, and the standard deviation is 152.58.
 
 ### average_rating Distribution
-![average_rating_distribution](outputs\graphs\average_rating_distribution.png)
+![average_rating_distribution](outputs/graphs/average_rating_distribution.png)
 
 The graph above shows the distribution of the 'average_rating' column. It visualizes the frequency distribution of the values. Look for the central tendency, spread, and any possible skewness in the distribution. From the descriptive statistics, the mean of this column is 4.00, and the standard deviation is 0.25.
 
 ### ratings_count Distribution
-![ratings_count_distribution](outputs\graphs\ratings_count_distribution.png)
+![ratings_count_distribution](outputs/graphs/ratings_count_distribution.png)
 
 The graph above shows the distribution of the 'ratings_count' column. It visualizes the frequency distribution of the values. Look for the central tendency, spread, and any possible skewness in the distribution. From the descriptive statistics, the mean of this column is 54001.24, and the standard deviation is 157369.96.
 
 ### work_ratings_count Distribution
-![work_ratings_count_distribution](outputs\graphs\work_ratings_count_distribution.png)
+![work_ratings_count_distribution](outputs/graphs/work_ratings_count_distribution.png)
 
 The graph above shows the distribution of the 'work_ratings_count' column. It visualizes the frequency distribution of the values. Look for the central tendency, spread, and any possible skewness in the distribution. From the descriptive statistics, the mean of this column is 59687.32, and the standard deviation is 167803.79.
 
 ### work_text_reviews_count Distribution
-![work_text_reviews_count_distribution](outputs\graphs\work_text_reviews_count_distribution.png)
+![work_text_reviews_count_distribution](outputs/graphs/work_text_reviews_count_distribution.png)
 
 The graph above shows the distribution of the 'work_text_reviews_count' column. It visualizes the frequency distribution of the values. Look for the central tendency, spread, and any possible skewness in the distribution. From the descriptive statistics, the mean of this column is 2919.96, and the standard deviation is 6124.38.
 
 ### ratings_1 Distribution
-![ratings_1_distribution](outputs\graphs\ratings_1_distribution.png)
+![ratings_1_distribution](outputs/graphs/ratings_1_distribution.png)
 
 The graph above shows the distribution of the 'ratings_1' column. It visualizes the frequency distribution of the values. Look for the central tendency, spread, and any possible skewness in the distribution. From the descriptive statistics, the mean of this column is 1345.04, and the standard deviation is 6635.63.
 
 ### ratings_2 Distribution
-![ratings_2_distribution](outputs\graphs\ratings_2_distribution.png)
+![ratings_2_distribution](outputs/graphs/ratings_2_distribution.png)
 
 The graph above shows the distribution of the 'ratings_2' column. It visualizes the frequency distribution of the values. Look for the central tendency, spread, and any possible skewness in the distribution. From the descriptive statistics, the mean of this column is 3110.89, and the standard deviation is 9717.12.
 
 ### ratings_3 Distribution
-![ratings_3_distribution](outputs\graphs\ratings_3_distribution.png)
+![ratings_3_distribution](outputs/graphs/ratings_3_distribution.png)
 
 The graph above shows the distribution of the 'ratings_3' column. It visualizes the frequency distribution of the values. Look for the central tendency, spread, and any possible skewness in the distribution. From the descriptive statistics, the mean of this column is 11475.89, and the standard deviation is 28546.45.
 
 ### ratings_4 Distribution
-![ratings_4_distribution](outputs\graphs\ratings_4_distribution.png)
+![ratings_4_distribution](outputs/graphs/ratings_4_distribution.png)
 
 The graph above shows the distribution of the 'ratings_4' column. It visualizes the frequency distribution of the values. Look for the central tendency, spread, and any possible skewness in the distribution. From the descriptive statistics, the mean of this column is 19965.70, and the standard deviation is 51447.36.
 
