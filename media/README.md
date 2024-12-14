@@ -77,17 +77,17 @@ This analysis gives insights into the dataset, highlighting that it consists mai
 ## Visualizations and Descriptions
 
 ### overall Distribution
-![overall_distribution](outputs\graphs\overall_distribution.png)
+![overall_distribution](overall_distribution.png)
 
 The graph above shows the distribution of the 'overall' column. It visualizes the frequency distribution of the values. Look for the central tendency, spread, and any possible skewness in the distribution. From the descriptive statistics, the mean of this column is 3.05, and the standard deviation is 0.76.
 
 ### quality Distribution
-![quality_distribution](outputs\graphs\quality_distribution.png)
+![quality_distribution](quality_distribution.png)
 
 The graph above shows the distribution of the 'quality' column. It visualizes the frequency distribution of the values. Look for the central tendency, spread, and any possible skewness in the distribution. From the descriptive statistics, the mean of this column is 3.21, and the standard deviation is 0.80.
 
 ### repeatability Distribution
-![repeatability_distribution](outputs\graphs\repeatability_distribution.png)
+![repeatability_distribution](repeatability_distribution.png)
 
 The graph above shows the distribution of the 'repeatability' column. It visualizes the frequency distribution of the values. Look for the central tendency, spread, and any possible skewness in the distribution. From the descriptive statistics, the mean of this column is 1.49, and the standard deviation is 0.60.
 
