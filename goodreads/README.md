@@ -105,22 +105,22 @@ In simple terms, this dataset is a rich compilation of book-related information 
 ## Visualizations and Descriptions
 
 ### book_id Distribution
-![book_id_distribution](outputs/graphs/book_id_distribution.png)
+![book_id_distribution](book_id_distribution.png)
 
 The graph above shows the distribution of the 'book_id' column. It visualizes the frequency distribution of the values. Look for the central tendency, spread, and any possible skewness in the distribution. From the descriptive statistics, the mean of this column is 5000.50, and the standard deviation is 2886.90.
 
 ### goodreads_book_id Distribution
-![goodreads_book_id_distribution](outputs/graphs/goodreads_book_id_distribution.png)
+![goodreads_book_id_distribution](goodreads_book_id_distribution.png)
 
 The graph above shows the distribution of the 'goodreads_book_id' column. It visualizes the frequency distribution of the values. Look for the central tendency, spread, and any possible skewness in the distribution. From the descriptive statistics, the mean of this column is 5264696.51, and the standard deviation is 7575461.86.
 
 ### best_book_id Distribution
-![best_book_id_distribution](outputs/graphs/best_book_id_distribution.png)
+![best_book_id_distribution](best_book_id_distribution.png)
 
 The graph above shows the distribution of the 'best_book_id' column. It visualizes the frequency distribution of the values. Look for the central tendency, spread, and any possible skewness in the distribution. From the descriptive statistics, the mean of this column is 5471213.58, and the standard deviation is 7827329.89.
 
 ### work_id Distribution
-![work_id_distribution](outputs/graphs/work_id_distribution.png)
+![work_id_distribution](work_id_distribution.png)
 
 The graph above shows the distribution of the 'work_id' column. It visualizes the frequency distribution of the values. Look for the central tendency, spread, and any possible skewness in the distribution. From the descriptive statistics, the mean of this column is 8646183.42, and the standard deviation is 11751060.82.
 
