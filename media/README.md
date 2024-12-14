@@ -72,7 +72,7 @@ Sure! Here's a summary of the analysis of the dataset in straightforward languag
   - **Creators (by)**: 262 entries are missing information about who created or performed the content.
 
 ### Overall Summary
-This analysis gives insights into the dataset, highlighting that it consists mainly of movie entries with a focus on English content. Most ratings are around average, and there’s a general trend where high overall ratings tend to correlate with high quality ratings. However, there is a significant amount of missing data that could impact further analyses.
+This analysis gives insights into the dataset, highlighting that it consists mainly of movie entries with a focus on English content. Most ratings are around average, and thereâ€™s a general trend where high overall ratings tend to correlate with high quality ratings. However, there is a significant amount of missing data that could impact further analyses.
 
 ## Visualizations and Descriptions
 
